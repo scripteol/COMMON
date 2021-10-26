@@ -1,9 +1,14 @@
-# Ce dossier a pour but de stocker les "scripts" pouvant servir pour différentes applications & développé pour EOL@NE  
+# BUT DU REPOSITORY 
+Ce dossier a pour but de stocker les "scripts" pouvant servir pour différentes applications & développé pour EOL@NE  
 
 ## Ajour du XXX
 ####
-* Une puce
-* a
+* DECTETION TYPE ETIQUETTE EN JS
+* DECTETION TYPE ETIQUETTE EN PHP
+* DECTETION TYPE ETIQUETTE EN PYTHON
+* VERIFIER TOLERANCE EN JS
+* VERIFIER TOLERANCE EN PHP
+* VERIFIER TOLERANCE EN PYTHON
 
 
 
