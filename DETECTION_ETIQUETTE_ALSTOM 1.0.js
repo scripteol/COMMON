@@ -15,6 +15,7 @@ function DETECTION_TYPE_ETIQUETTE(ETIQUETTE){
          console.log("DETECTION ETIQUETTE QR");
         LIST_ETIQUETTE.push(ETIQUETTE.substr(7,6)); //CODE ARTICLE
         LIST_ETIQUETTE.push(ETIQUETTE.substr(19,5)); //NUMERO DE SERIE 
+        LIST_ETIQUETTE.push(ETIQUETTE.substr(25,5)); //DC 
         break;
 
         case 32:
